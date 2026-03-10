@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "3edw. (Remix)",
+  "base_artist": "angelize",
+  "createdAt": "2026-03-10T21:46:49.695194Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3edw. (Remix)",
+      "artist": "angelize",
+      "has_synced": false,
+      "path": "select/pl_01_3edw._(Remix)_angelize.txt"
+    }
+  ]
+}
